@@ -16,7 +16,7 @@ import { FooterComponent } from './components/footer/footer.component';
 
 const appRoutes: Routes = [
   { path: '', component: TasksComponent },
-  { path: 'about', component: AboutComponent },
+  // { path: 'about', component: AboutComponent },
 ];
 
 @NgModule({
